@@ -8,6 +8,14 @@ It provides the following tables:
 
 I derive these tables from survey data collected by [Banerjee et al. (2013)](https://doi.org/10.1126/science.1236498) as part of their study of microfinance diffusion.
 
+## Installation
+
+IndianVillages can be installed as follows:
+
+1. Clone or fork the repo.
+2. Download [datav4.0](https://doi.org/10.7910/21538/4POS1J) from the Harvard Dataverse, save it in `data-raw/`, and unzip it.
+3. Run `make` in a Terminal window at the repo's top-level directory.
+
 ## License
 
 MIT
