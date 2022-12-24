@@ -16,6 +16,10 @@ IndianVillages can be installed as follows:
 2. Download [datav4.0](https://doi.org/10.7910/21538/4POS1J) from the Harvard Dataverse, save it in `data-raw/`, and unzip it.
 3. Run `make` in a Terminal window at the repo's top-level directory.
 
+## Usage
+
+See [my blog post](https://bldavies.com/blog/social-networks-rural-india/) for examples.
+
 ## License
 
 MIT
